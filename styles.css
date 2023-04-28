@@ -70,7 +70,7 @@ h2 + p{
 
 .intro{
     background-color: #404040;
-    background-image: url(images/ribs.jpg);
+    background-image: url(ribs.jpg);
     background-size: cover;
     background-position: center;
     padding: 0 .5em 2em;
